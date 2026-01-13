@@ -92,4 +92,14 @@ Digunakan untuk memblokir domain menurut varian DNS yang tersedia.
 
 Untuk berkontribusi ke blocklist komunitas dilingkup phishing, malware, tracker, dan iklan annoyance, pornografi, judi, SARA, dan konten yang melanggar norma kesusilaan anda dapat fork **Blocklist Kami** dan kirimkan kontribusi anda, atau bergabunglah dengan komunitas kami di **Telegram** kami.
 
+Silahkan ikuti format seperti yang ada di blocklist untuk berkontribusi lewat forking!
+
 ---
+
+### Pemeliharaan:
+
+#### <u>Status Peladen</u>
+Statistik kondisi servis pelayanan publik dapat dilihat di bawah ini:
+* [UptimeRobot Status](https://stats.uptimerobot.com/...)
+
+#### <u>Uji Keamanan</u>
