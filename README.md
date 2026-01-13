@@ -1,5 +1,13 @@
-
 <div align="center">
+
+Bahasa / Language
+<br>
+<a href="README.md">
+  <img src="https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3%20Indonesia-black?style=flat-square" alt="Indonesia">
+</a>
+<a href="dev/readme/learnmore.en.md">
+  <img src="https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%B3%20English-blue?style=flat-square" alt="English">
+</a>
 
 # DNS INTERNET SAFE INDONESIA
 
@@ -131,3 +139,46 @@ Silakan ikuti panduan yang diberikan di bawah ini:
 | | | | Simple DNSCrypt (Windows) | |
 
 ---
+### **Cara Melaporkan atau Permintaan**
+Untuk melakukan permintaan dan melaporkan adanya kutu (*bug*), silakan [membuka isu baru](https://github.com/devhunter-git/Unbound/issues).
+
+### **Soal Sering Ditanya**
+Jika mengalami permasalahan saat menggunakan [Internet Safe DNS](https://internetsafe.id), silakan lanjut menanyakannya di [Telegram](https://t.me/internetsafe), atau mengirimkan email ke `dukungan@internetsafe.id` dengan subjek **Internet Safe DNS: [Masalah/pertanyaan anda]**.
+
+---
+
+## Donasi Kami:
+
+Bantu proyek kami agar VPS [Internet Safe DNS](https://internetsafe.id) tetap berjalan dengan cara berdonasi.
+
+▶ ☕ Traktir kita kopi: [v]
+
+---
+
+## Lisensi:
+
+[Internet Safe DNS](https://internetsafe.id) telah lisensikan dibawah [Lisensi MIT](LICENSE) tersebut.
+
+---
+
+## Syarat dan Ketentuan:
+
+Dengan menggunakan layanan ini, anda setuju mematuhi peraturan yang kami buat dan menerima segala akibat yang ditimbulkan.
+
+Untuk selengkapnya, lihat di [ATURAN-nya pada berikut](dev/readme/RULES.md).
+
+---
+
+<div align="center">
+
+Bagikan proyek ini!
+<br><br>
+
+<a href="https://twitter.com/intent/tweet?text=Cek%20BebasDNS%20untuk%20internet%20aman!&url=https://github.com/bebasid/bebasdns">
+  <img src="https://img.shields.io/badge/X%20/%20TWITTER-black?style=for-the-badge&logo=x" alt="X">
+</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/bebasid/bebasdns">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+</div>
