@@ -8,7 +8,7 @@
 
 <div>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LISENSI-MIT-white?style=flat-square" alt="LISENSI MIT"></a>
-  <img src="https://img.shields.io/badge/DILUNCURKAN-2020-white?style=flat-square" alt="DILUNCURKAN 2025">
+  <img src="https://img.shields.io/badge/DILUNCURKAN-2025-white?style=flat-square" alt="DILUNCURKAN 2025">
 </div>
 <br>
 <div>
