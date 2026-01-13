@@ -112,3 +112,22 @@ Internet Safe DNS telah diuji keamanannya dan mendapatkan nilai pada website:
 | SSL Labs IPv4/IPv6 | **PASS** | - |
 | SSL Labs IPv6 | **PASS** | - |
 | Is your site IPv6 ready? | **PASS** | - |
+
+---
+
+### Isi Tutorial dan Bertanya
+
+### **Cara Mengaplikasikan**
+Silakan ikuti panduan yang diberikan di bawah ini:
+
+| Sistem Operasi | Modem/Router | Mobile | Metode DNS | Alat DPI |
+| :---: | :---: | :---: | :---: | :---: |
+| [Microsoft Windows 11](dev/readme/windows11.md) | [MikroTik](dev/readme/tutoraltport.md) | [Android](dev/readme/android.md) | [Plain DNS (Port Alternatif)](dev/readme/tutoraltport.md) | [GoodbyeDPI](dev/readme/windows11.md) |
+| [Apple macOS](dev/readme/ios.md) | [OpenWRT](dev/readme/tutoraltport.md) | [iOS](dev/readme/ios.md) | DNS-over-HTTPS | GreenTunnel |
+| | | | DNS-over-TLS | PowerTunnel |
+| | | | **AdGuard Home** | Zapret |
+| | | | **Pi-Hole** | Geneva |
+| | | | DNSCrypt-Proxy | |
+| | | | Simple DNSCrypt (Windows) | |
+
+---
