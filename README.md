@@ -103,3 +103,12 @@ Statistik kondisi servis pelayanan publik dapat dilihat di bawah ini:
 * [UptimeRobot Status](https://stats.uptimerobot.com/...)
 
 #### <u>Uji Keamanan</u>
+Internet Safe DNS telah diuji keamanannya dan mendapatkan nilai pada website:
+
+| Situs SSL | Nilai | Tanggal Diperbarui |
+| :--- | :---: | :--- |
+| SSL Security Test ImmuniWeb DoH | **PASS** | - |
+| SSL Security Test ImmuniWeb TLS | **PASS** | - |
+| SSL Labs IPv4/IPv6 | **PASS** | - |
+| SSL Labs IPv6 | **PASS** | - |
+| Is your site IPv6 ready? | **PASS** | - |
