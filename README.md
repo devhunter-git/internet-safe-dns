@@ -1,25 +1,34 @@
 <div align="center">
 
-Bahasa / Language
 <br>
-<a href="README.md">
-  <img src="https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3%20Indonesia-black?style=flat-square" alt="Indonesia">
-</a>
-<a href="dev/readme/learnmore.en.md">
-  <img src="https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%B3%20English-blue?style=flat-square" alt="English">
-</a>
 
 # DNS INTERNET SAFE INDONESIA
 
 "Berselancar di internet lebih aman, cepat, dan bebas iklan. Gunakan InternetSafe.id DNS sekarang juga!"
 
-![DILUNCURKAN 2020](https://img.shields.io/badge/DILUNCURKAN-2025-white?style=flat-square)
+<div>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LISENSI-MIT-white?style=flat-square" alt="LISENSI MIT"></a>
+  <img src="https://img.shields.io/badge/DILUNCURKAN-2020-white?style=flat-square" alt="DILUNCURKAN 2025">
+</div>
+<br>
+<div>
+  <a href="https://t.me/bebasid"><img src="https://img.shields.io/badge/TELEGRAM-JOIN-black?style=flat-square&logo=telegram" alt="TELEGRAM"></a>
+  <a href="https://chat.whatsapp.com/Dhf5ebV3Ap2125sMkxFSLq"><img src="https://img.shields.io/badge/WHATSAPP-JOIN-black?style=flat-square&logo=whatsapp" alt="WHATSAPP"></a>
+</div>
+<br>
+<div>
+  <a href="https://trakteer.id/bebasid"><img src="https://img.shields.io/badge/TRAKTEER-DONASI-white?style=flat-square" alt="TRAKTEER"></a>
+  <a href="https://saweria.co/bebasid"><img src="https://img.shields.io/badge/SAWERIA-DONASI-white?style=flat-square" alt="SAWERIA"></a>
+</div>
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-JOIN-black?style=flat-square&logo=telegram)](link-telegram)
-[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-JOIN-black?style=flat-square&logo=whatsapp)](link-whatsapp)
+---
 
-[![TRAKTEER](https://img.shields.io/badge/TRAKTEER-DONASI-white?style=flat-square)](link-trakteer)
-[![SAWERIA](https://img.shields.io/badge/SAWERIA-DONASI-white?style=flat-square)](link-saweria)
+### Pemberitahuan tentang DPI
+<details>
+  <summary>▶ Pencet untuk buka pemberitahuan</summary>
+  <br>
+  Informasi mendalam mengenai Deep Packet Inspection (DPI).
+</details>
 
 ---
 
