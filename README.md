@@ -102,6 +102,7 @@ Digunakan untuk memblokir domain menurut varian DNS yang tersedia.
 | [Pi-Hole Team](#) |
 | [StevenBlack](#) |
 | [Sefinek](#) |
+| [Shreshta Labs NRD 1 Week](#) |
 
 ---
 
