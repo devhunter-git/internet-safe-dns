@@ -118,7 +118,7 @@ Silahkan ikuti format seperti yang ada di blocklist untuk berkontribusi lewat fo
 
 #### <u>Status Peladen</u>
 Statistik kondisi servis pelayanan publik dapat dilihat di bawah ini:
-* [UptimeRobot Status](https://stats.uptimerobot.com/...)
+* [UptimeRobot Status](https://stats.uptimerobot.com/3n4gVc7n8v)
 
 #### <u>Uji Keamanan</u>
 Internet Safe DNS telah diuji keamanannya dan mendapatkan nilai pada website:
